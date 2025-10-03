@@ -1,0 +1,25 @@
+=== Análise Comparativa Final ===
+
+Integridade - dados originais
+MD5: 5002/5002
+SHA-1: 5002/5002
+SHA-256: 5002/5002
+SHA3-256: 5002/5002
+
+Integridade - dados alterados / falhas proposital
+MD5: detectou alterações em 251/252 (falhas não detectadas: 1)     
+SHA-1: detectou alterações em 251/252 (falhas não detectadas: 1)   
+SHA-256: detectou alterações em 252/252 (falhas não detectadas: 0) 
+SHA3-256: detectou alterações em 252/252 (falhas não detectadas: 0)
+
+Distribuição de dados nos nós (entropia)
+MD5: entropia = 9.8048 | média = 5.002 | std = 2.300
+SHA-1: entropia = 9.8152 | média = 5.002 | std = 2.237
+SHA-256: entropia = 9.8162 | média = 5.002 | std = 2.225
+SHA3-256: entropia = 9.8233 | média = 5.002 | std = 2.158
+
+Criptografia - colisões (simuladas)
+MD5: FALHOU (colisão simulada).
+SHA-1: FALHOU (colisão simulada).
+SHA-256: SEGURO (para o par testado).
+SHA3-256: SEGURO (para o par testado).
